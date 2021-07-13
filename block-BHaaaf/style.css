@@ -1,0 +1,15 @@
+
+body{
+    background-color: brown;
+}
+.heading{
+    color:chartreuse;
+}
+.awesome{
+    color:darkcyan;
+    font-size: 48px;
+}
+#unique{
+    color: darkmagenta;
+    font-size: 48px;
+}
